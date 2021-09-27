@@ -1,0 +1,287 @@
+2021-09-25 09:14:27,331 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:00:17,646 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 12:00:19,259 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 12:00:19,684 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 12:00:19,686 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 12:00:21,509 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:00:24,544 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 12:00:24,546 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 12:00:28,395 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 12:00:28,543 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 12:00:28,587 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:00:31,613 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 12:00:31,614 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 12:00:33,331 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 12:00:33,345 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 12:00:34,336 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:00:37,373 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 12:00:37,379 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 12:00:39,538 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 12:00:42,561 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 12:00:43,764 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 12:00:45,419 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 12:00:51,890 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 12:00:59,822 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 12:01:16,689 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 12:01:16,689 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 12:01:18,998 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 12:01:21,049 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 12:01:21,282 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 12:01:21,282 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 12:01:22,082 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:01:25,102 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 12:01:25,103 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 12:01:31,544 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 12:01:35,546 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 12:01:41,313 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-25 12:36:29,858 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 12:36:29,929 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 12:36:29,984 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 12:36:30,001 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 12:36:30,341 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 12:36:30,371 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 12:36:30,423 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 12:36:30,521 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 12:36:30,556 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 12:36:30,596 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 12:36:30,616 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 12:39:55,110 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 12:39:56,886 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 12:39:57,238 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 12:39:57,240 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 12:39:58,047 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:40:01,094 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 12:40:01,097 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 12:40:06,369 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 12:40:06,582 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 12:40:06,627 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:40:09,646 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 12:40:09,648 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 12:40:12,872 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 12:40:12,882 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 12:40:14,462 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:40:17,471 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 12:40:17,473 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 12:40:21,136 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 12:40:24,161 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 12:40:25,640 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 12:40:26,842 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 12:40:31,078 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-25 12:40:31,115 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-25 12:40:31,121 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-25 12:40:31,173 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:40:34,192 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 12:40:40,418 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:40:43,445 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 12:41:02,566 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 12:41:02,568 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 12:41:03,902 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 12:41:05,379 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 12:41:05,589 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 12:41:05,589 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 12:41:06,652 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 12:41:09,665 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 12:41:09,667 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 12:41:16,074 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 12:41:19,790 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 12:41:23,696 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-25 15:03:49,053 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 15:03:54,863 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 15:03:55,183 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 15:03:55,184 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 15:03:55,985 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:03:59,011 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 15:03:59,012 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 15:04:02,761 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 15:04:02,946 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 15:04:03,006 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:04:06,035 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 15:04:06,037 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 15:04:11,201 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 15:04:11,213 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 15:04:12,556 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:04:15,570 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 15:04:15,575 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 15:04:19,614 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 15:04:22,639 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 15:04:26,214 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 15:04:33,981 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 15:04:37,217 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-25 15:04:37,259 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-25 15:04:37,270 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-25 15:04:37,340 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:04:40,353 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 15:04:45,731 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:04:48,764 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 15:05:05,683 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 15:05:05,685 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 15:05:07,296 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 15:05:08,701 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 15:05:08,782 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 15:05:08,783 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 15:05:09,846 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:05:12,859 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 15:05:12,863 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 15:05:19,340 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 15:05:23,999 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 15:05:28,068 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-25 15:06:53,874 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 15:06:55,330 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 15:06:55,705 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 15:06:55,706 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 15:06:56,531 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:06:59,560 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 15:06:59,561 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 15:07:03,599 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 15:07:03,794 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 15:07:04,670 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:07:07,697 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 15:07:07,701 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 15:07:10,018 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 15:07:10,029 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 15:07:11,124 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:07:14,152 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 15:07:14,161 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 15:07:16,168 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 15:07:19,188 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 15:07:20,437 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 15:07:22,049 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 15:07:29,299 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-25 15:07:29,313 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-25 15:07:29,318 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-25 15:07:29,356 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:07:32,374 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 15:07:43,650 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:07:46,662 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 15:08:06,609 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 15:08:06,611 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 15:08:08,895 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 15:08:11,107 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 15:08:11,327 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 15:08:11,328 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 15:08:12,382 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:08:15,395 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 15:08:15,399 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 15:08:31,831 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 15:08:33,258 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 15:08:38,982 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-25 15:11:20,725 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 15:11:22,924 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 15:11:23,142 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 15:11:23,143 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 15:11:24,141 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:11:27,159 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 15:11:27,161 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 15:11:30,841 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 15:11:30,961 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 15:11:32,692 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:11:35,710 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 15:11:35,712 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 15:11:37,730 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 15:11:37,743 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 15:11:39,454 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:11:42,473 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 15:11:42,478 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 15:11:45,036 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 15:11:48,052 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 15:11:51,497 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 15:11:56,629 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 15:12:00,563 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-25 15:12:00,581 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-25 15:12:00,586 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-25 15:12:00,613 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:12:03,637 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 15:12:09,307 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:12:12,325 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 15:12:33,660 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 15:12:33,661 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 15:12:34,846 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 15:12:36,153 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 15:12:36,377 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 15:12:36,378 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 15:12:37,445 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:12:40,466 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 15:12:40,469 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 15:12:47,027 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 15:12:50,671 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 15:12:54,443 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-25 15:16:37,727 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-25 15:16:39,398 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-25 15:16:39,535 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-25 15:16:39,536 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-25 15:16:41,368 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:16:44,413 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-25 15:16:44,415 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-25 15:16:47,851 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-25 15:16:48,005 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-25 15:16:48,026 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:16:51,049 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-25 15:16:51,051 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-25 15:16:53,150 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-25 15:16:53,160 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-25 15:16:54,223 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:16:57,236 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-25 15:16:57,239 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-25 15:16:59,879 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-25 15:17:02,896 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-25 15:17:05,933 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-25 15:17:10,994 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-25 15:17:14,055 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-25 15:17:14,073 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-25 15:17:14,077 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-25 15:17:14,094 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:17:17,118 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-25 15:17:23,644 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:17:26,667 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-25 15:17:43,174 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-25 15:17:43,176 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-25 15:17:44,930 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-25 15:17:46,291 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-25 15:17:46,447 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-25 15:17:46,448 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-25 15:17:47,293 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-25 15:17:50,302 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-25 15:17:50,304 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-25 15:17:58,283 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-25 15:18:02,197 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-25 15:18:07,629 [main] INFO Urban Ladder Hybrid:  - Printed Price
+2021-09-27 09:42:56,893 [main] INFO Urban Ladder Hybrid:  - Test Case -1
+2021-09-27 09:43:04,404 [main] INFO Urban Ladder Hybrid:  - Opened Cart Page
+2021-09-27 09:43:05,442 [main] INFO Urban Ladder Hybrid:  - No of links present is counted
+2021-09-27 09:43:05,443 [main] INFO Urban Ladder Hybrid:  - Count is displayed
+2021-09-27 09:43:07,339 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:43:10,358 [main] INFO Urban Ladder Hybrid:  - Test Case -2
+2021-09-27 09:43:10,362 [main] INFO Urban Ladder Hybrid:  - Clicking Gift cards
+2021-09-27 09:43:17,952 [main] INFO Urban Ladder Hybrid:  - Gift cards page is opened
+2021-09-27 09:43:18,262 [main] INFO Urban Ladder Hybrid:  - Info about Digital cards Printed
+2021-09-27 09:43:18,312 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:43:21,334 [main] INFO Urban Ladder Hybrid:  - Test Case -3
+2021-09-27 09:43:37,440 [main] INFO Urban Ladder Hybrid:  - Search will be initiated
+2021-09-27 09:43:43,734 [main] INFO Urban Ladder Hybrid:  - Search using method is initiated
+2021-09-27 09:43:43,745 [main] INFO Urban Ladder Hybrid:  - Serched an entered item
+2021-09-27 09:43:44,749 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:43:47,758 [main] INFO Urban Ladder Hybrid:  - Test Case -4
+2021-09-27 09:43:47,762 [main] INFO Urban Ladder Hybrid:  - Clicking initiated
+2021-09-27 09:43:50,597 [main] INFO Urban Ladder Hybrid:  - Navigated to main window
+2021-09-27 09:43:53,629 [main] INFO Urban Ladder Hybrid:  - Test Case -5
+2021-09-27 09:43:59,153 [main] INFO Urban Ladder Hybrid:  - Test Case -6
+2021-09-27 09:44:04,233 [main] INFO Urban Ladder Hybrid:  - Test Case -7
+2021-09-27 09:44:25,218 [main] INFO Urban Ladder Hybrid:  - Opened Gifts page
+2021-09-27 09:44:25,236 [main] INFO Urban Ladder Hybrid:  - Ttile is acquired
+2021-09-27 09:44:27,169 [main] INFO Urban Ladder Hybrid:  - Assertion passed
+2021-09-27 09:44:27,224 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:44:30,241 [main] INFO Urban Ladder Hybrid:  - Test Case -8
+2021-09-27 09:44:41,107 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:44:44,119 [main] INFO Urban Ladder Hybrid:  - Test Case -9
+2021-09-27 09:45:20,845 [main] INFO Urban Ladder Hybrid:  - Test Case -10
+2021-09-27 09:45:20,848 [main] INFO Urban Ladder Hybrid:  - Getting Help Page
+2021-09-27 09:45:23,461 [main] INFO Urban Ladder Hybrid:  - Clicking Contact us in Help Page
+2021-09-27 09:45:30,282 [main] INFO Urban Ladder Hybrid:  - Getting Title
+2021-09-27 09:45:30,293 [main] INFO Urban Ladder Hybrid:  - Asserting Title
+2021-09-27 09:45:30,293 [main] INFO Urban Ladder Hybrid:  - Title Assertion passed
+2021-09-27 09:45:32,258 [main] INFO Urban Ladder Hybrid:  - Navigated to home
+2021-09-27 09:45:35,263 [main] INFO Urban Ladder Hybrid:  - Test Case -Checkout
+2021-09-27 09:45:35,265 [main] INFO Urban Ladder Hybrid:  - Search Initiated
+2021-09-27 09:45:48,670 [main] INFO Urban Ladder Hybrid:  - Adding to cart
+2021-09-27 09:45:52,972 [main] INFO Urban Ladder Hybrid:  - Added to cart
+2021-09-27 09:45:57,841 [main] INFO Urban Ladder Hybrid:  - Printed Price
